@@ -71,7 +71,7 @@ From rigorous validation across 14 samples (bass guitar, piano, violin, percussi
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/per-harmonic-adsr-synthesis.git
+git clone https://github.com/oneSekky/per-harmonic-adsr-synthesis.git
 cd per-harmonic-adsr-synthesis
 
 # Install dependencies
@@ -245,12 +245,12 @@ Kaiser-windowed FIR filters provide:
 If you use this work in your research or projects, please cite:
 
 ```bibtex
-@software{ali2024perharmonic,
+@software{ali2025perharmonic,
   author = {Ali, Sekander},
   title = {Per-Harmonic ADSR Synthesis: Parametric Audio Modeling Through Optimized Envelope Reconstruction},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/YOUR_USERNAME/per-harmonic-adsr-synthesis},
+  url = {https://github.com/oneSekky/per-harmonic-adsr-synthesis},
   note = {Digital Signal Processing Final Project, Columbia University ELEN E4810}
 }
 ```
@@ -284,6 +284,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Institution**: Columbia University
 **Course**: Digital Signal Processing (ELEN E4810)
 **Project Type**: Final Project
-**Year**: 2024
+**Year**: December 2025
 
 ⭐ **Star this repo** if you find it useful for your audio processing work!
