@@ -264,7 +264,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **Course**: ELEN E4810 Digital Signal Processing, Columbia University
-- **Instructor**: [Your instructor's name if you want to include]
+- **Instructor**: Professor Wright
 - **References**:
   - Oppenheim & Schafer - *Discrete-Time Signal Processing*
   - Smith - *Spectral Audio Signal Processing*
